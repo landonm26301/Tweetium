@@ -1,5 +1,5 @@
 {
-  "name": "twiterium-expirimentail-build",
+  "name": "twiterium",
   "version": "1.0.0",
   "description": "a twitter bot api for node.js this os one option to bypass the pay wall for twiters api",
   "main": "api.js",
@@ -8,9 +8,17 @@
   },
   "keywords": [
     "twitter",
-    "twitterbot"
+    "Twitter",
+    "twitterbot",
+    "TwitterBot",
+    "api bypass",
+    "Api Bypass",
+    "bot",
+    "Bot",
+    "webdriver",
+    "Webdriver"  
   ],
-  "author": "landon",
+  "author": "Parado_g",
   "license": "MIT",
   "dependencies": {
     "delay": "^5.0.0",
