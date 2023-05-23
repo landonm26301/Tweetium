@@ -7,8 +7,7 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ![GitHub issues](https://img.shields.io/github/issues/landonm26301/Twiterium)
-
-
+ 
 
 ## Installation
 
