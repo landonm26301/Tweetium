@@ -23,7 +23,7 @@ Install with npm
 const twitter = require('./api.js');
     // your twiters acount auth token here 
     // change headless to --head to see the browser 
-    await twitter.INIT('Your auth token', '--headless'); 
+    await twitter.INIT('Your auth token', '--headless');  
     
     await twitter.SendMessage('Hello world!');
 ```
