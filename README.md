@@ -1,5 +1,5 @@
 
-![Logo](https://i.ibb.co/9WX6PfR/Twiterium-logo.png)
+![Logo](https://i.ibb.co/VtgdwPQ/TWEETIUM.png)
 
 
 
