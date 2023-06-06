@@ -4,10 +4,9 @@
 
 // dependents / requirements
 const { Builder, Browser, By, Key, until } = require("selenium-webdriver"); // Seliem Webdriver
-const firefox = require("selenium-webdriver/firefox"); // fierfox browser ewb engine
+const firefox = require("selenium-webdriver/firefox"); // fierfox browser web engine
 const delay = require("delay"); // delay for async
 const term = require("terminal-kit").terminal; // Terminal kit
-let options = new firefox.Options();
 const path = require("path");
 
 // Build the driver
@@ -15,7 +14,6 @@ var driver;
 
 // Global element variables
 var body;
-var Textarea;
 var imgUppload;
 
 // MAKE SURE TO CALL THIS BEFORE YOU DO ANYTHING!!!!
@@ -125,7 +123,7 @@ async function loadElms(elm) {
     );
   }
 }
-// \/ Remove Turn on notifacation if it is a thing
+// \/ Remove Turn on notification if it is a thing
 
 // \/ add cookies function
 async function Login() {
