@@ -32,31 +32,31 @@ const twitter = require('./Twiterium.js');
 
 ## Roadmap
 
-- Add Imige support
+- Add Image support
 
-- Add reed
+- Read notifications and DMs
 
-- Add send in threads 
+- Reply in threads
 
-- Faster timings
+- Faster times
 
 - Additional browser support
 
 
 ## Features
 
-- Text baced meseging
-- Headless and heded options
-- Custome terminal logging
+- Text based meseging
+- Headless and headed options
+- Custom terminal logging
 
 ## Feedback
 
-If you have any feedback, please reach out to Me at ttvparadoxg@gmail.com or throu the ishues tab
+If you have any feedback, please reach out to me at ttvparadoxg@gmail.com or through the issues tab
 
 
 # Twiterium
 
- A free twiter api paywall work around for node.js
+ A free twiter api paywall work around for node.js and .Net
 
  
 
