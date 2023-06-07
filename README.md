@@ -56,7 +56,7 @@ If you have any feedback, please reach out to me at ttvparadoxg@gmail.com or thr
 
 # Twiterium
 
- A free twiter api paywall work around for node.js and .Net
+ A free twiter api paywall work around for node.js and .NET
 
  
 
