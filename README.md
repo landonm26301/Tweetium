@@ -20,7 +20,7 @@ Install with npm
 ## Usage/Examples
 
 ```javascript
-    const twitter = require('./Twiterium.js');
+const twitter = require('./Twiterium.js');
     // your twiters acount auth token here 
     // change headless to --head to see the browser 
     await twitter.INIT('Your auth token', '--headless');  
@@ -32,20 +32,20 @@ Install with npm
 
 ## Roadmap
 
-- Add Imsage support
+- Add Image support
 
-- Add read
+- Read notifications and DMs
 
-- Add send in threads 
+- Reply in threads
 
-- Faster timings
+- Faster times
 
 - Additional browser support
 
 
 ## Features
 
-- Text based messaging
+- Text based meseging
 - Headless and headed options
 - Custom terminal logging
 
@@ -56,7 +56,7 @@ If you have any feedback, please reach out to me at ttvparadoxg@gmail.com or thr
 
 # Twiterium
 
- A free twiter api paywall work around for node.js
+ A free twiter api paywall work around for node.js and .Net
 
  
 
