@@ -20,7 +20,7 @@ Install with npm
 ## Usage/Examples
 
 ```javascript
-const twitter = require('./Twiterium.js');
+    const twitter = require('./Twiterium.js');
     // your twiters acount auth token here 
     // change headless to --head to see the browser 
     await twitter.INIT('Your auth token', '--headless');  
@@ -32,9 +32,9 @@ const twitter = require('./Twiterium.js');
 
 ## Roadmap
 
-- Add Imige support
+- Add Imsage support
 
-- Add reed
+- Add read
 
 - Add send in threads 
 
@@ -45,13 +45,13 @@ const twitter = require('./Twiterium.js');
 
 ## Features
 
-- Text baced meseging
-- Headless and heded options
-- Custome terminal logging
+- Text based messaging
+- Headless and headed options
+- Custom terminal logging
 
 ## Feedback
 
-If you have any feedback, please reach out to Me at ttvparadoxg@gmail.com or throu the ishues tab
+If you have any feedback, please reach out to me at ttvparadoxg@gmail.com or through the issues tab
 
 
 # Twiterium

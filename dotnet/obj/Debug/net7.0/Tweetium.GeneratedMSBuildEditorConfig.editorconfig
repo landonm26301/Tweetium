@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tweetium
-build_property.ProjectDir = C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\
+build_property.ProjectDir = C:\Users\ti2ge\source\repos\Tweetium\dotnet\

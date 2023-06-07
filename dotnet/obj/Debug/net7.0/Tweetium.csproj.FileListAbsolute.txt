@@ -1,0 +1,15 @@
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.csproj.AssemblyReference.cache
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.AssemblyInfoInputs.cache
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.AssemblyInfo.cs
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.csproj.CoreCompileInputs.cache
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\Tweetium.deps.json
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\Tweetium.dll
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\bin\Debug\net7.0\Tweetium.pdb
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.dll
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\refint\Tweetium.dll
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\Tweetium.pdb
+C:\Users\ti2ge\Source\Repos\Tweetium\dotnet\obj\Debug\net7.0\ref\Tweetium.dll
