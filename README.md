@@ -54,7 +54,7 @@ const twitter = require('./Twiterium.js');
 If you have any feedback, please reach out to me at ttvparadoxg@gmail.com or through the issues tab
 
 
-# Twiterium
+# Tweetium
 
  A free twiter api paywall work around for node.js and .Net
 
