@@ -17,6 +17,16 @@ var body;
 var imgUppload;
 
 // MAKE SURE TO CALL THIS BEFORE YOU DO ANYTHING!!!!
+modual.exports = class instence {
+  constructor(cookie){
+    this.instence = ;
+  }
+  async init(){
+    
+  }
+};
+
+
 exports.INIT = async function (cookiesFile) {
   await term.clear();
   // Lode the page
