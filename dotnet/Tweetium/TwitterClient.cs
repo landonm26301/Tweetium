@@ -23,9 +23,11 @@ namespace Tweetium
         public string password { get; private set; }
 
         /// <summary>
-        /// The password used to sign in
+        /// The cookies used to sign in
         /// </summary>
-        private string _cookies;
+        public string cookies { get; private set; }
+
+        public 
 
         public TwitterClient()
         {
@@ -86,7 +88,7 @@ namespace Tweetium
 
                 if (registeredCookies.ContainsKey(username1))
                 {
-                    _cookies = registeredCookies[username1];
+                    cookies = registeredCookies[username1];
                     return;
                 }
             }
@@ -167,6 +169,8 @@ namespace Tweetium
                 //    //DataContractSerializer serializer = new DataContractSerializer(typeof(Dictionary<string, int>));
                 //    //serializer.WriteObject(fileStream, registeredCookies);
                 //}
+
+                cookies = 
 
                 File.WriteAllText("cookies.json", JsonConvert.SerializeObject(registeredCookies, Formatting.Indented));
 
