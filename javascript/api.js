@@ -19,9 +19,10 @@ var imgUppload;
 // MAKE SURE TO CALL THIS BEFORE YOU DO ANYTHING!!!!
 modual.exports = class instence {
   constructor(cookie){
-    this.instence = ;
+    this.cookie = cookie;
+    INIT(this.cookie);
   }
-  async init(){
+  async SendMessage(){
     
   }
 };
